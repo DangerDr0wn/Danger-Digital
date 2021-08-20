@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Conky Granola.
 - 👀 I’m interested in lessening my dumbness.
-- 🌱 I’m currently learning python, SQL, network pokey game. 
+- 🌱 I’m currently learning python, SQL, network pokey testing. 
 - 💞️ I’m looking to collaborate on taking over the world
 - 📫 How to reach me: dont. i have nothing for you at this time. 
 
